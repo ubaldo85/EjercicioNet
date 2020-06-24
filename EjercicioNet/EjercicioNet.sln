@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioNet", "EjercicioNet\EjercicioNet.csproj", "{E4F5BA60-0282-416F-885E-42C7299B1007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{BE1574A0-B9DA-421F-AB45-D613E4637DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F5BA60-0282-416F-885E-42C7299B1007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F5BA60-0282-416F-885E-42C7299B1007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F5BA60-0282-416F-885E-42C7299B1007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F5BA60-0282-416F-885E-42C7299B1007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1574A0-B9DA-421F-AB45-D613E4637DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1574A0-B9DA-421F-AB45-D613E4637DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1574A0-B9DA-421F-AB45-D613E4637DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1574A0-B9DA-421F-AB45-D613E4637DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95CAF429-4AEE-4AF1-8DCF-560FA6BF02C3}
+	EndGlobalSection
+EndGlobal
